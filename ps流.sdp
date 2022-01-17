@@ -1,0 +1,4 @@
+m=video 23334 RTP/AVP 96
+c=IN IP4 192.168.8.233
+a=rtpmap:96 MP2P/90000
+a=framerate:12
